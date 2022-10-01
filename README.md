@@ -1,6 +1,6 @@
 # Vuejs firebase app
 
-A Vuejs application using Firebase - Cloud Firestore and Authentication 
+A Vuejs application using Firebase - Cloud Firestore and Authentication.
 
 ## Run application:
 
