@@ -21,13 +21,13 @@ Vue.use(router)
 import "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyAFmg9n_0UFoDfW0AzuVJKIgGK23G8gSH0',
-  authDomain: 'vuefirebase-413f4.firebaseapp.com',
-  projectId: 'vuefirebase-413f4',
-  storageBucket: 'vuefirebase-413f4.appspot.com',
-  messagingSenderId: '652559925390',
-  appId: '1:652559925390:web:71b93a9a499147768cc9df',
-  measurementId: 'G-LJC5C26E01',
+  apiKey:  "********************************",
+  authDomain:  "********************************",
+  projectId:  "********************************",
+  storageBucket:  "********************************",
+  messagingSenderId:  "********************************",
+  appId:  "********************************",
+  measurementId:  "********************************",
 };
 
 
